@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @hlachyab
 - 👀 I’m interested in programming and data 
-- 🌱 I’m currently learning (c++ , java script)
-- 💞️ I’m looking to collaborate on with comapny tobe an intern 
 - 📫 How to reach me hatimlachyab@gmail.com
